@@ -1,0 +1,7 @@
+TO DO:
+
+ - [ ] Git
+ - [ ] Bits/Bytes
+ - [ ] Clock speed range
+ - [ ] INOUT ucf
+ - [ ] My Modules
