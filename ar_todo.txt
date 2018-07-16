@@ -3,5 +3,5 @@ TO DO:
  - [ ] Git
  - [ ] Bits/Bytes
  - [ ] Clock speed range
- - [ ] INOUT ucf
+ - [ ] INOUT ucf for Spartan 3E
  - [ ] My Modules
