@@ -1,6 +1,6 @@
 TO DO:
 
- - [ ] Git
+ - [ ] Create a Git
  - [ ] Bits/Bytes
  - [ ] Clock speed range
  - [ ] INOUT ucf for Spartan 3E
